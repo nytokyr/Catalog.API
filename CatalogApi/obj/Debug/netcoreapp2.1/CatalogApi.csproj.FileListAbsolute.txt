@@ -1,0 +1,14 @@
+C:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.deps.json
+C:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.runtimeconfig.json
+C:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.runtimeconfig.dev.json
+c:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.dll
+c:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.pdb
+c:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.csprojAssemblyReference.cache
+c:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.csproj.CoreCompileInputs.cache
+c:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.RazorAssemblyInfo.cache
+c:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.RazorAssemblyInfo.cs
+c:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.AssemblyInfoInputs.cache
+c:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.AssemblyInfo.cs
+c:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.RazorTargetAssemblyInfo.cache
+c:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.dll
+c:\Users\one logic\Documents\PROJECT\Catalog.API\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.pdb
