@@ -1,0 +1,9 @@
+C:\Users\one logic\Documents\PROJECT\Catalog.API\src\CatalogAPI.Core\bin\Debug\netstandard2.0\CatalogApi.Core.deps.json
+C:\Users\one logic\Documents\PROJECT\Catalog.API\src\CatalogAPI.Core\bin\Debug\netstandard2.0\CatalogApi.Core.dll
+C:\Users\one logic\Documents\PROJECT\Catalog.API\src\CatalogAPI.Core\bin\Debug\netstandard2.0\CatalogApi.Core.pdb
+C:\Users\one logic\Documents\PROJECT\Catalog.API\src\CatalogAPI.Core\obj\Debug\netstandard2.0\CatalogApi.Core.csprojAssemblyReference.cache
+C:\Users\one logic\Documents\PROJECT\Catalog.API\src\CatalogAPI.Core\obj\Debug\netstandard2.0\CatalogApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\one logic\Documents\PROJECT\Catalog.API\src\CatalogAPI.Core\obj\Debug\netstandard2.0\CatalogApi.Core.AssemblyInfoInputs.cache
+C:\Users\one logic\Documents\PROJECT\Catalog.API\src\CatalogAPI.Core\obj\Debug\netstandard2.0\CatalogApi.Core.AssemblyInfo.cs
+C:\Users\one logic\Documents\PROJECT\Catalog.API\src\CatalogAPI.Core\obj\Debug\netstandard2.0\CatalogApi.Core.dll
+C:\Users\one logic\Documents\PROJECT\Catalog.API\src\CatalogAPI.Core\obj\Debug\netstandard2.0\CatalogApi.Core.pdb

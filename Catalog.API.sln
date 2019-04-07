@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Core", "CatalogAPI.Core\CatalogApi.Core.csproj", "{4AE31101-CBAC-46C5-AD7B-358278950EE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Core", "src\CatalogAPI.Core\CatalogApi.Core.csproj", "{4AE31101-CBAC-46C5-AD7B-358278950EE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Database", "CatalogAPI.Database\CatalogApi.Database.csproj", "{E8AB84CB-D4E0-4592-A828-4DF2A98A087E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Database", "src\CatalogAPI.Database\CatalogApi.Database.csproj", "{E8AB84CB-D4E0-4592-A828-4DF2A98A087E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Model", "CatalogAPI.Model\CatalogApi.Model.csproj", "{CFA9B138-38E9-4D55-A999-8C1270649DF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Model", "src\CatalogAPI.Model\CatalogApi.Model.csproj", "{CFA9B138-38E9-4D55-A999-8C1270649DF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Services", "CatalogAPI.Services\CatalogApi.Services.csproj", "{E5481E32-E2A8-4AF4-850A-04FE465EAC4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Services", "src\CatalogAPI.Services\CatalogApi.Services.csproj", "{E5481E32-E2A8-4AF4-850A-04FE465EAC4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
