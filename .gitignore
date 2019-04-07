@@ -1,0 +1,12 @@
+\bin
+\obj
+\Debug
+\Release
+
+src/CatalogAPI.Services/obj/Debug/netstandard2.0/CatalogApi.Services.AssemblyInfo.cs
+src/CatalogAPI.Core/obj/Debug/netstandard2.0/project.razor.json
+src/CatalogAPI.Database/obj/Debug/netstandard2.0/CatalogApi.Database.AssemblyInfo.cs
+src/CatalogAPI.Database/obj/Debug/netstandard2.0/project.razor.json
+src/CatalogAPI.Model/obj/project.assets.json
+src/CatalogAPI.Model/obj/Debug/netstandard2.0/project.razor.json
+src/CatalogAPI.Services/obj/Debug/netstandard2.0/project.razor.json

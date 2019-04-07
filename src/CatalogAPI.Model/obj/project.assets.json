@@ -201,9 +201,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\one logic\\Documents\\PROJECT\\Catalog.API\\src\\CatalogAPI.Model\\CatalogApi.Model.csproj",
-      "projectName": "CatalogApi.Model",
-      "projectPath": "C:\\Users\\one logic\\Documents\\PROJECT\\Catalog.API\\src\\CatalogAPI.Model\\CatalogApi.Model.csproj",
+      "projectUniqueName": "C:\\Users\\one logic\\Documents\\PROJECT\\Catalog.API\\src\\CatalogAPI.Model\\CatalogAPI.Model.csproj",
+      "projectName": "CatalogAPI.Model",
+      "projectPath": "C:\\Users\\one logic\\Documents\\PROJECT\\Catalog.API\\src\\CatalogAPI.Model\\CatalogAPI.Model.csproj",
       "packagesPath": "C:\\Users\\one logic\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\one logic\\Documents\\PROJECT\\Catalog.API\\src\\CatalogAPI.Model\\obj\\",
       "projectStyle": "PackageReference",
