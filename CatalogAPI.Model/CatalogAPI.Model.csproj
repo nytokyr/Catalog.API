@@ -3,5 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
+<ItemGroup>
+<ProjectReference Include="..\Catalog.API\CatalogAPI.Core\CatalogAPI.Core.csproj" />
+</ItemGroup>
 
 </Project>
