@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Core", "src\CatalogAPI.Core\CatalogApi.Core.csproj", "{4AE31101-CBAC-46C5-AD7B-358278950EE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Core", "src\CatalogAPI.Core\CatalogAPI.Core.csproj", "{4AE31101-CBAC-46C5-AD7B-358278950EE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Database", "src\CatalogAPI.Database\CatalogApi.Database.csproj", "{E8AB84CB-D4E0-4592-A828-4DF2A98A087E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Database", "src\CatalogAPI.Database\CatalogAPI.Database.csproj", "{E8AB84CB-D4E0-4592-A828-4DF2A98A087E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Model", "src\CatalogAPI.Model\CatalogApi.Model.csproj", "{CFA9B138-38E9-4D55-A999-8C1270649DF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Model", "src\CatalogAPI.Model\CatalogAPI.Model.csproj", "{CFA9B138-38E9-4D55-A999-8C1270649DF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Services", "src\CatalogAPI.Services\CatalogApi.Services.csproj", "{E5481E32-E2A8-4AF4-850A-04FE465EAC4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogApi.Services", "src\CatalogAPI.Services\CatalogAPI.Services.csproj", "{E5481E32-E2A8-4AF4-850A-04FE465EAC4B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{015133F8-25F0-4E72-B40C-2725AD783859}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogAPI.Services.tests", "tests\CatalogAPI.Services.tests\CatalogAPI.Services.tests.csproj", "{8B8E2D58-B0A1-4285-A65A-D4EE05262A6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogAPI.Services.tests", "tests\CatalogAPI.Services.Tests\CatalogAPI.Services.Tests.csproj", "{8B8E2D58-B0A1-4285-A65A-D4EE05262A6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

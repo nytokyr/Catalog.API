@@ -12,9 +12,9 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
 
-    <ProjectReference Include="..\Catalog.API\CatalogAPI.Services\CatalogAPI.Services.csproj" />
-    <ProjectReference Include="..\Catalog.API\CatalogAPI.Core\CatalogAPI.Core.csproj" />
-    <ProjectReference Include="..\Catalog.API\CatalogAPI.Core\CatalogAPI.Model.csproj" />
+    <ProjectReference Include="..\CatalogAPI.Core\CatalogAPI.Core.csproj" />
+    <ProjectReference Include="..\CatalogAPI.Model\CatalogAPI.Model.csproj" />
+    <ProjectReference Include="..\CatalogAPI.Services\CatalogAPI.Services.csproj" />
   </ItemGroup>
 
 </Project>
