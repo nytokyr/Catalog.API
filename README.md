@@ -1,3 +1,4 @@
+[![Board Status](https://zumarider.visualstudio.com/5a89a303-6448-4c40-87f1-4b00fb95f4d8/34a05832-708b-4422-b330-58f0e79fe55d/_apis/work/boardbadge/064d114c-2940-4fb4-827f-b1b0027b00d2)](https://zumarider.visualstudio.com/5a89a303-6448-4c40-87f1-4b00fb95f4d8/_boards/board/t/34a05832-708b-4422-b330-58f0e79fe55d/Microsoft.RequirementCategory)
 # Catalog.API
 - Création d'un projet de microservice nommé Catalog.API
 - Outils : Visual Code et dotnet Core
